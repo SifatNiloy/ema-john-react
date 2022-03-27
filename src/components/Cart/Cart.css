@@ -1,0 +1,9 @@
+.cart{
+    background-color: rgb(178, 235, 161);
+    padding: 20px;
+    margin: 30px 10px;
+    border-radius: 10px;
+}
+.grandtotal{
+    color: rgb(194, 41, 41);
+}
