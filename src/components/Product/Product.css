@@ -15,4 +15,9 @@
     border: 1px solid lightgray;
     border-radius: 5px;
     cursor: pointer;
+    margin-top: 5px;
+}
+.icon-color{
+    color: rgb(223, 189, 0);
+    margin-top: 0px;
 }
